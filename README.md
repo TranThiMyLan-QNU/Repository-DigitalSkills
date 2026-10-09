@@ -5,7 +5,3 @@
 - Course: Digital Skills
 - University: [Tên trường đại học]
 
-## Learning Materials
-- Report
-- Slides
-- PDF
